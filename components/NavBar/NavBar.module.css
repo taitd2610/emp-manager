@@ -1,0 +1,18 @@
+.navbar {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #008cba;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar_brand {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.navbar_create {
+  color: #fff;
+  font-size: 1.5rem;
+}
